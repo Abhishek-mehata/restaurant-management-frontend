@@ -113,3 +113,10 @@ code {
 
 
 
+@import "tailwindcss";
+
+/* default color code variables */
+
+:root {
+  /* --variableName: value */
+}
